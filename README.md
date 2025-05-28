@@ -1,20 +1,36 @@
-<h1 align=“center”>您好👋，我是李心妍</h1>
-<h3 align=“center”>来自中国的热情大学生</h3>
+<!-- 动态横幅（建议替换为您的专属banner） -->
+![MasterHead](https://github-profile-banner-generator.vercel.app/api?text=Welcome+to+My+Universe&theme=radial-gradient)
 
-- 🔭 我目前正在进行**大学学习**
+<!-- 打字动画效果 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+I'm+YourName;Full-Stack+Developer%2C+AI+Explorer;Open+Source+Enthusiast" alt="动态标题" />
+</div>
 
-🌱- 我目前正在学习**会计原理**
-
-- 📫 如何联系我 **3141362468@qq.com**
-
-- ⚡ 有趣的事实 **难以置信的14亿分之一**
-
-<h3 align=“left”>与我连线：</h3>
-<p align=“left”>
-<a href=“https://instagram.com/aliruanfufu” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg” alt=“aliruanfufu” height=“30” width=“40” /></a>
+<!-- 社交徽章 -->
+<p align="center">
+  <a href="https://your.blog">
+    <img src="https://img.shields.io/badge/🌐_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="个人博客">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
+<!-- 关于我 -->
+## 🧑‍🚀 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Software Engineer | AI Researcher"
+        self.passion = "Building impactful tech solutions"
+        self.current_learning = ["Rust", "Distributed Systems"]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's connect :)")
 
-<p>&nbsp;<img align=“center” src=“https://github-readme-stats.vercel.app/api?username=elllsea&show_icons=true&locale=en” alt=“elllsea” /></p>
-
-<p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=elllsea&” alt=“elllsea” /></p>
+me = Developer()
+me.say_hi()
